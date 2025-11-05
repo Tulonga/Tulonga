@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Tulonga
 
-I'm Tulonga from Zambia & I am an aspiring developer
-
-![Tulonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tulonga&hide=contribs,prs)
+Backend-focused software developer with strong Go and API integration skills.  
+Currently working on Goravel web app | Pursuing BSc Hons Computing at ZCAS
 
 ![Tulonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tulonga&show_icons=true&hide=contribs,prs&count_private=true)
 
@@ -22,9 +21,11 @@ I'm Tulonga from Zambia & I am an aspiring developer
 
 ```
 
-- 🔭 I’m currently working on Goravel web application
-- 🌱 I’m currently learning Go lang
 
-- 📫 How to reach me:
+🔭 Recent: Rebuilt startup backend APIs originally in Python to Go.  
+🌱 Passionate about practical solutions and full-stack development.
+
+
+📫 How to reach me:
   - Email me at tulongamilapo@outlook.com
   - Contact me on +260767778162 on whatsapp 
