@@ -4,6 +4,9 @@ I'm Tulonga from Zambia & I am an aspiring developer
 
 ![Tulonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tulonga&hide=contribs,prs)
 
+![Tulonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tulonga&show_icons=true&hide=contribs,prs&count_private=true)
+
+
 ```
  ███████████            ████                                        
 ░█░░░███░░░█           ░░███                                        
