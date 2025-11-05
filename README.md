@@ -28,4 +28,7 @@ Currently working on Goravel web app | Pursuing BSc Hons Computing at ZCAS
 
 📫 How to reach me:
   - Email me at tulongamilapo@outlook.com
-  - Contact me on +260767778162 on whatsapp 
+  - Contact me on +260767778162 on whatsapp
+
+---
+[Full CV](https://github.com/Tulonga/Tulonga-cv) | [Projects](https://github.com/Tulonga)
