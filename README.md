@@ -1,34 +1,24 @@
-### Hi there 👋 I'm Tulonga
+# 👋 Hi, I'm Tulonga Milapo  
+**Full-Stack Developer | Go/PHP/Laravel | Backend Specialist**  
+Lusaka/Choma, Zambia | [Resume PDF](link) | [✉️ tulongamilapo@outlook.com](mailto:tulongamilapo@outlook.com)
 
-Backend-focused software developer with strong Go and API integration skills.  
-Currently working on Goravel web app | Pursuing BSc Hons Computing at ZCAS
+## 🛠️ Featured Projects
+[![Personal Inventory API](https://github-readme-stats.vercel.app/api/pin/?username=Tulonga&repo=inventory-api&theme=radical)](https://github.com/Tulonga/inventory-api)  
+**RESTful Go API** - CRUD book tracking with SQL. Goroutines, JWT auth, scalable backend.
 
-![Tulonga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tulonga&show_icons=true&hide=contribs,prs&count_private=true)
+## 🏆 Achievements
+- **MTN Hackathon 2023 Finalist** - Dairy co-op management system (PHP/JS)
+- **Lead Developer** - MasterFees startup (PHP/Laravel/React, led 3-person team)
+- **Automated** Red Cherry Store ops (Excel dashboard, 40% time savings)
 
+## 💻 Tech Stack
+| Backend | Go • PHP • Laravel • Node • SQL |
+|---------|---------------------------------|
+| DevOps  | Linux (Arch) • Git • Docker     |
+| Frontend| React/Next.js • Tailwind        |
 
-```
- ███████████            ████                                        
-░█░░░███░░░█           ░░███                                        
-░   ░███  ░  █████ ████ ░███   ██████  ████████    ███████  ██████  
-    ░███    ░░███ ░███  ░███  ███░░███░░███░░███  ███░░███ ░░░░░███ 
-    ░███     ░███ ░███  ░███ ░███ ░███ ░███ ░███ ░███ ░███  ███████ 
-    ░███     ░███ ░███  ░███ ░███ ░███ ░███ ░███ ░███ ░███ ███░░███ 
-    █████    ░░████████ █████░░██████  ████ █████░░███████░░████████
-   ░░░░░      ░░░░░░░░ ░░░░░  ░░░░░░  ░░░░ ░░░░░  ░░░░░███ ░░░░░░░░ 
-                                                  ███ ░███          
-                                                 ░░██████           
-                                                  ░░░░░░            
+## 📈 GitHub Stats
+![TulongaMilapo's github stats](https://github-readme-stats.vercel.app/api?username=Tulonga&show_icons=true&theme=radical)
 
-```
-
-
-🔭 Recent: Rebuilt startup backend APIs originally in Python to Go.  
-🌱 Passionate about practical solutions and full-stack development.
-
-
-📫 How to reach me:
-  - Email me at tulongamilapo@outlook.com
-  - Contact me on +260767778162 on whatsapp
-
----
-[Full CV](https://github.com/Tulonga/Tulonga-cv) | [Projects](https://github.com/Tulonga)
+**Currently building:** SysAdmin toolkit in Bash/Go 🚀  
+**Open to:** Backend roles, remote freelance, Zambia dev positions
