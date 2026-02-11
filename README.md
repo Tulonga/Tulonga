@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Tulonga Milapo  
 **Full-Stack Developer | Go/PHP/Laravel | Backend Specialist**  
-Lusaka/Choma, Zambia | [Resume PDF](link) | [✉️ tulongamilapo@outlook.com](mailto:tulongamilapo@outlook.com)
+Lusaka/Choma, Zambia | [Resume PDF](https://raw.githubusercontent.com/Tulonga/Tulonga.github.io/main/TulongaMilapo.pdf) | [✉️ tulongamilapo@outlook.com](mailto:tulongamilapo@outlook.com)
 
 ## 🛠️ Featured Projects
-[![Personal Inventory API](https://github-readme-stats.vercel.app/api/pin/?username=Tulonga&repo=inventory-api&theme=radical)](https://github.com/Tulonga/inventory-api)  
+
 **RESTful Go API** - CRUD book tracking with SQL. Goroutines, JWT auth, scalable backend.
 
 ## 🏆 Achievements
@@ -20,5 +20,5 @@ Lusaka/Choma, Zambia | [Resume PDF](link) | [✉️ tulongamilapo@outlook.com](m
 ## 📈 GitHub Stats
 ![Tulonga's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Tulonga&theme=monochrome&chart=bars)
 
-**Currently building:** SysAdmin toolkit in Bash/Go 🚀  
+**Currently building:** The Crypt in JavaScript 🚀  
 **Open to:** Backend roles, remote freelance, Zambia dev positions
