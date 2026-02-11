@@ -18,7 +18,7 @@ Lusaka/Choma, Zambia | [Resume PDF](link) | [✉️ tulongamilapo@outlook.com](m
 | Frontend| React/Next.js • Tailwind        |
 
 ## 📈 GitHub Stats
-![TulongaMilapo's github stats](https://github-readme-stats.vercel.app/api?username=Tulonga&show_icons=true&theme=radical)
+![Tulonga's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Tulonga&theme=monochrome&chart=bars)
 
 **Currently building:** SysAdmin toolkit in Bash/Go 🚀  
 **Open to:** Backend roles, remote freelance, Zambia dev positions
